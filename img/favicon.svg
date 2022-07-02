@@ -1,6 +1,32 @@
-<svg
-    xmlns="http://www.w3.org/2000/svg" version="1.1" width="256" height="256" viewbox="0 0 949 256">
-    <path fill="#2366d1" d="M110.85125168440814 128L221.70250336881628 192L110.85125168440814 256L0 192Z"/>
-    <path fill="#609dff" d="M110.85125168440814 64L221.70250336881628 128L110.85125168440814 192L0 128Z"/>
-    <path fill="#a4c7ff" d="M110.85125168440814 0L221.70250336881628 64L110.85125168440814 128L0 64Z"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+<style type="text/css">
+	.st0{display:none;fill:#2366D1;}
+	.st1{display:none;fill:#609DFF;}
+	.st2{display:none;fill:#A4C7FF;}
+	.st3{fill:#FCFC60;enable-background:new    ;}
+</style>
+<g id="图层_1">
+	<path class="st0" d="M110.9,128l110.9,64l-110.9,64L0,192L110.9,128z"/>
+	<path class="st1" d="M110.9,64l110.9,64l-110.9,64L0,128L110.9,64z"/>
+	<path class="st2" d="M110.9,0l110.9,64l-110.9,64L0,64L110.9,0z"/>
+	<rect x="-1" y="-347" class="st3" width="258" height="950"/>
+	<g>
+		<defs>
+			<rect id="SVGID_1_" x="-1" y="-1" width="258" height="258"/>
+		</defs>
+		<clipPath id="SVGID_00000036214251278011939560000009757183963468309167_">
+			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+		</clipPath>
+		<g transform="matrix(1 0 0 1 0 0)" style="clip-path:url(#SVGID_00000036214251278011939560000009757183963468309167_);">
+			
+				<image style="overflow:visible;" width="3182" height="2121" xlink:href="../../../../../../../../Z00 - 完成/Z30 - 插画/V1-闪念涂鸦- 插画角色-20200625/组 22.png"  transform="matrix(0.1231 0 0 0.1231 -61.0382 -2.5887)">
+			</image>
+		</g>
+	</g>
+</g>
+<g id="图层_2">
+</g>
 </svg>
