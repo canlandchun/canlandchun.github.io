@@ -9,7 +9,7 @@
 	.st3{display:none;}
 	.st4{display:inline;fill:#333333;}
 	.st5{display:inline;}
-	.st6{clip-path:url(#SVGID_00000128477016936520465230000009069247775684610705_);}
+	.st6{clip-path:url(#SVGID_00000050621952023127110970000013936526075300135063_);}
 	.st7{display:none;fill:#A16D44;}
 	.st8{display:none;fill:#FF6F4A;}
 	.st9{display:none;fill:#608AFC;}
@@ -77,10 +77,10 @@
 		<defs>
 			<rect id="SVGID_1_" y="-1" width="949" height="258"/>
 		</defs>
-		<clipPath id="SVGID_00000099659850288087734490000006286263527428915898_">
+		<clipPath id="SVGID_00000043424465455218439680000000301682354498796187_">
 			<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
 		</clipPath>
-		<g style="clip-path:url(#SVGID_00000099659850288087734490000006286263527428915898_);">
+		<g style="clip-path:url(#SVGID_00000043424465455218439680000000301682354498796187_);">
 			
 				<image style="overflow:visible;enable-background:new    ;" width="3182" height="2121" xlink:href="../../../../../../../../Z00 - 完成/Z30 - 插画/V1-闪念涂鸦- 插画角色-20200625/组 22.png"  transform="matrix(0.1207 0 0 0.1207 -10.6175 0)">
 			</image>
